@@ -1,4 +1,4 @@
-# OpenShift Install
+# OpenShift Install Customizado
 
 The OpenShift installer `openshift-install` makes it easy to get a cluster
 running on the public cloud or your local infrastructure.
